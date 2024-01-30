@@ -8,4 +8,4 @@
 - _Поисковые строки_
 - _Все на js без подключения доп. библиотек_
 
-## посмотреть можно по [ТУТ](https://jkrass210.github.io/Fetch_request/)
+## [КЛИКАЙ ДЛЯ ПРОСМОТРА](https://jkrass210.github.io/Fetch_request/)
